@@ -1,6 +1,5 @@
 # UX220Test2
 Test 2 for UX220
-Fix
 
 [Q1](q1.html) 
 [Q2](q2.html) 
