@@ -1,23 +1,16 @@
 # UX220Test2
 Test 2 for UX220
 
-<<<<<<< HEAD
+
 [Q1](q1.html) 
 [Q2](q2.html) 
-=======
 [Q1](q1.html)
 [Q2](q2.html)
->>>>>>> 5002132 (Q5 - green background)
 [Q3](q3.html)
 [Q4](q4.html)
 [Q5](q5.html)
 
 ## Questions
-<<<<<<< HEAD
-=======
-
-[Edit here](https://diy-pwa.dev/~/gh/rhildred/UX220Test2)
->>>>>>> 5002132 (Q5 - green background)
 
 Each question is worth 2 points.
 
