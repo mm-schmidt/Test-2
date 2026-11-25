@@ -7,9 +7,7 @@ Test 2 for UX220
 [Q4](q4.html)
 [Q5](q5.html)
 
-
-
-[Edit here](https://diy-pwa.dev/~/gh/rhildred/UX220Test2)
+## Questions
 
 Each question is worth 2 points.
 
