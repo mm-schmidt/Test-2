@@ -3,8 +3,6 @@ Test 2 for UX220
 
 [Q1](q1.html) 
 [Q2](q2.html) 
-[Q1](q1.html)
-[Q2](q2.html)
 [Q3](q3.html)
 [Q4](q4.html)
 [Q5](q5.html)
